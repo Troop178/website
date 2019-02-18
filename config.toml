@@ -19,7 +19,7 @@ pygmentsCodefencesGuessSyntax = true
   favicon = "img/favicon.png"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
+  rss = false
   comments = true
   readingTime = true
   useHLJS = true
@@ -41,26 +41,25 @@ pygmentsCodefencesGuessSyntax = true
   name = "Troop 178"
   website = "yourwebsite.com"
 
+[[menu.main]]
+    name = "Calendar"
+    url = "calendar/calendar"
+    weight = 1
   
 [[menu.main]]
     name = "Announcements"
     url = ""
-    weight = 1
-  
-
-[[menu.main]]
-    name = "Calendar"
-    url = "calendar/calendar"
     weight = 2
   
 [[menu.main]]
     name = "Troop Information"
-    url = ""
+    url = "vision"
     weight = 3
 
 [[menu.main]]
     name = "Documents"
-    url = "docs"
+    url = "https://drive.google.com/drive/folders/1Zr15AXkaIfc06vqpLnNqu-JYoOTPLnph"
+    hrefTargetBlank = true
     weight = 4
 
 
