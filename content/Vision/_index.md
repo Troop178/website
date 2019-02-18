@@ -111,7 +111,6 @@ consignment shops and online at a reduced cost.
 Camping Gear
 Troop 178 provides tents and cooking gear for all scouts
 on campouts. Scouts should have their own sleeping
-
 bag, backpack, mess kit and personal gear, as appropri-
 ate for the type of outing.
 
@@ -142,7 +141,6 @@ Examples of other activities include:
 
 ### For Older Scouts
 As scouts get older and demonstrate their outdoor
-
 skills, they are able to participate in special activi-
 ties exclusively for experienced scouts.
 
