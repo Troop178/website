@@ -74,10 +74,8 @@ tarian in its attitude toward that religious training.
 
 ### Uniform
 All scouts wear a Field Uniform, commonly referred to as
-
 a “Class A” uniform. New scouts receive an Activity Uni-
 form tee shirt (“Class B”) with our troop logo. About
-
 once a year, scouts will also have the opportunity to or-
 der additional (optional) gear with our troop logo.
 
@@ -96,7 +94,6 @@ der additional (optional) gear with our troop logo.
 - Troop tee shirt
 Also available for purchase are uniform hat, uniform
 pants and shorts, uniform belt and uniform socks. We
-
 encourage but do not require Scouts to be in full uni-
 form.
 

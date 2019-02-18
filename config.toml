@@ -53,7 +53,7 @@ pygmentsCodefencesGuessSyntax = true
   
 [[menu.main]]
     name = "Troop Information"
-    url = "vision"
+    url = "vision/vision"
     weight = 3
 
 [[menu.main]]
