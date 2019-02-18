@@ -21,10 +21,8 @@ You will be assigned to a patrol, which is a group of
 6-8 scouts of similar age in our troop. One scout is
 elected by the patrol to be the Patrol Leader, who
 accepts the responsibility to help is fellow scouts
-
 along the way. Younger scout patrols are also as-
 signed a Troop Guide, who is an older Scout who
-
 helps the Patrol Leader to carry out his duties.
 Your first task will be to earn the Scout rank, where
 you will learn the basics of being a scout.
@@ -37,7 +35,6 @@ you will learn the basics of being a scout.
 Regular troop meetings are held are held from Septem-
 ber through June every Wednesday, except for the sec-
 ond Wednesday of the month and when School is not in
-
 session. Meetings run from 7:00 p.m. to 8:30 p.m.
 Meetings are held in the basement of Saint Pius Tenth
 School, 3000 Chili Avenue, Rochester, NY 14624.
@@ -67,7 +64,6 @@ the Scoutmaster if you require financial assistance.
 The BSA maintains that no member can grow into the
 best kind of citizen without recognizing an obligation to
 God and, therefore, recognizes the religious element in
-
 the training of the member, but is absolutely nonsec-
 tarian in its attitude toward that religious training.
 
